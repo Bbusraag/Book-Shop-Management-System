@@ -1,0 +1,15 @@
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\bin\Debug\BookShopManagement1.exe.config
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\bin\Debug\BookShopManagement1.exe
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\bin\Debug\BookShopManagement1.pdb
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.csprojAssemblyReference.cache
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.Form1.resources
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.Properties.Resources.resources
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.csproj.GenerateResource.cache
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.exe
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.pdb
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.btnregister.resources
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.Forms.GöstergePaneli.resources
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\bin\Debug\BookShopManagement1.exe.manifest
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\bin\Debug\BookShopManagement1.application
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.exe.manifest
+C:\Users\Device X1-C1\source\repos\BookShopManagement1\BookShopManagement1\obj\Debug\BookShopManagement1.application
